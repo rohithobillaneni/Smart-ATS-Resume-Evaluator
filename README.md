@@ -1,7 +1,7 @@
 # 📄 Smart ATS Resume Evaluator
 
 A powerful and user-friendly Streamlit application that evaluates your CV or resume against any job description using Google Gemini AI. Designed to help job seekers quickly identify matched and missing keywords, optimise their resumes, and improve alignment with specific roles.
-§
+
 ---
 
 ## 🚀 Features
